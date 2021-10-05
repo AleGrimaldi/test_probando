@@ -28,6 +28,7 @@ console.log('animacionAvion dura ' + animacionAvion.duration())
 console.log('animacion dura ' + animacionCopies.duration())
 
 
+
 function  ctaOver(){
 document.getElementById('cta_over').style.opacity = 1;
 document.getElementById('cta').style.opacity = 0;
